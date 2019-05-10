@@ -1,0 +1,15 @@
+form {
+    background-color: #EFEFEF;
+    display: 'flex';
+    flex-wrap: wrap;
+}
+
+a {
+    text-decoration: none;
+}
+
+.newGroup{
+    display: flex;
+    background-color: lightblue;
+}
+

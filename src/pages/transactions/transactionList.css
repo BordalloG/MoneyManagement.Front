@@ -1,0 +1,38 @@
+.transaction table {
+   margin: 0 auto;
+    width: 60%  ; 
+    max-width: 60%;
+}
+
+.transaction table td {
+    width: 100%;
+}
+
+.transaction table td:nth-child(-n+4) 
+{
+    width: 15%;
+}
+.transaction table td:first-child{
+    width: 5%;
+}
+.transaction table td:nth-child(5) 
+{
+    width: 30%;
+    max-width: 30%;
+}
+.transaction table td:nth-child(6) 
+{
+    width: 10%;
+}
+.GroupDescription
+{
+    padding:  1.5%;
+}
+.GroupDescription h1 
+{
+    font-size: 3em;
+}
+.GroupDescription p 
+{
+    font-size: 1.5em;
+}

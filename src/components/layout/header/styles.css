@@ -1,0 +1,11 @@
+header{
+    margin-bottom: 2%;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+header a:visited {
+    color: #fff;
+    text-decoration: none;
+}
